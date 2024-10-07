@@ -1,0 +1,20 @@
+¡Bienvenido al reto de programación! 
+Nombre del reto: Versiones
+En este desafío, deberás implementar una función en el lenguaje de tu preferencia que procese una cadena de datos y determine la validez de la información basada en ciertos criterios.
+
+Descripción del Reto
+Tu tarea es implementar una función que reciba una cadena de datos en el formato clave:valor|clave:valor|... y devuelva un resultado indicando si los datos son válidos y la versión de la validación aplicada.
+
+La cadena value contendrá diferentes pares clave:valor separados por |.
+
+Deberás validar cada par basado en los siguientes criterios:
+
+name: Debe estar presente y tener al menos 5 caracteres.
+age: Debe ser un número mayor o igual a 18.
+state: Debe estar presente y tener al menos 5 caracteres.
+zipcode: Debe ser un código postal válido de 5 dígitos.
+status: Solo acepta los valores soltero o casado (sin importar mayúsculas o minúsculas).
+La función debe devolver un string con el formato Version {version}|{resultado}, donde:
+
+version será 4.0 si se encuentra zipcode o status, o 3.3 si estos no están presentes.
+resultado será Success si todos los valores son válidos, de lo contrario, Error.
