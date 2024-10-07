@@ -13,6 +13,7 @@ En este reto, deberás implementar una función que resuelva los dos retos plant
     JavaScript
     C#
     Ruby
+    Python
 - Haz una rama de este repositorio y trabaja en tu rama.
 - Cuando hayas terminado, crea un Pull Request para que revisemos tu código.
 
