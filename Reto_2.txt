@@ -1,0 +1,11 @@
+¡Bienvenido al reto de programación!
+Nombre del Reto: Sumasw
+En este desafío, deberás implementar una función en el lenguaje de tu preferencia, que reciba dos números enteros, los sume y devuelva un mensaje indicando el resultado.
+
+Descripción del Reto
+Tu tarea es implementar una función sumarNumeros(a, b) que:
+
+Verifique que ambos parámetros a y b sean números enteros.
+Si alguno de los parámetros no es un número entero, la función debe retornar el mensaje: "Ambos parámetros deben ser números enteros.".
+Si ambos parámetros son válidos, debe sumar los dos números y retornar un string con el siguiente formato: 
+"El resultado de la suma es: Resultado SW", donde Resultado es la suma de a y b y "SW" son las iniciales.
