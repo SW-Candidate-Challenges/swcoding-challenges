@@ -23,4 +23,9 @@ En este reto, deberás implementar una función que resuelva los dos retos plant
 - Eficiencia del algoritmo.
 - No usar Chat-Gpt, Gemini, Copilot o similares Inteligencias Artificiales.
 
+- Recuerda poner como reviewers a:
+- martinfnsw
+- SebastianSW
+- Reyes-SW
+
 ¡Buena suerte!
