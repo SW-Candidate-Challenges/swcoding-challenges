@@ -6,7 +6,7 @@ Challeges
 Con este reto evaluaremos tu conocimiento en lenguajes de programación, el flujo de git, asi como una pequeña practica utilizandolo, analizaremos tu desarrollo logico.
 Sugerimos que agregues comentarios dentro del codigo explicando lo que hace cada paso.
 
-##Requisitos previos: 
+## Requisitos previos 
 -Cuenta en Github.
 -Tener unstalado Git en tu equipo, puedes realizar desde consola los cambios o desde tu editor de codigo favorito.
 
