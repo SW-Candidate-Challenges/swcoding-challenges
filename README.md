@@ -33,4 +33,4 @@ En este reto, deberás implementar una función que resuelva los dos retos plant
 
 - Recuerda poner como reviewers a: martinfnsw, SebastianSW y Reyes-SW
 
-¡Buena suerte!
+¡Buena suerte! 🧡
