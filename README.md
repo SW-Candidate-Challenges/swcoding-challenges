@@ -13,7 +13,7 @@ Cuenta en GitHub.
 Tener instalado Git en tu equipo. Puedes realizar los cambios desde la consola o desde tu editor de código favorito.
 
 ## Descripción
-En este reto deberás implementar una función que resuelva los dos retos planteados en los archivos. El código debe cumplir con los siguientes requisitos...
+En este reto deberás implementar una función que resuelva uno de los dos retos planteados en los archivos. El código debe cumplir con los siguientes requisitos...
 
 ## Reglas
 Tu solución debe estar en alguno de los siguientes lenguajes:
