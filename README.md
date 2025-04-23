@@ -7,7 +7,9 @@ Con este reto evaluaremos tu conocimiento en lenguajes de programación, el fluj
 Sugerimos que agregues comentarios dentro del codigo explicando lo que hace cada paso.
 
 ## Requisitos previos 
+
 -Cuenta en Github.
+
 -Tener unstalado Git en tu equipo, puedes realizar desde consola los cambios o desde tu editor de codigo favorito.
 
 ## Descripción
