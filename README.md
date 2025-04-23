@@ -52,4 +52,4 @@ Este reto tiene como objetivo evaluar tus habilidades personales de programació
 Queda estrictamente prohibido el uso de herramientas de asistencia basadas en inteligencia artificial, como ChatGPT, Gemini, Copilot u otras similares.
 
 Cualquier indicio del uso de estas herramientas podrá ser motivo de descalificación inmediata del reto.
-Confía en tu conocimiento y da lo mejor de ti.
+Confía en tu conocimiento y da lo mejor de ti. 👊
