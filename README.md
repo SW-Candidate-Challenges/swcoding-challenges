@@ -1,20 +1,21 @@
 swcoding-challenges
 Challenges
 
-Reto de Programación
+#Reto de Programación
+
 ¡Bienvenido al reto de programación!
 Con este reto evaluaremos tu conocimiento en lenguajes de programación, el flujo de Git, así como una pequeña práctica utilizándolo. También analizaremos tu desarrollo lógico.
 Sugerimos que agregues comentarios dentro del código explicando lo que hace cada paso.
 
-Requisitos previos
+##Requisitos previos
 Cuenta en GitHub.
 
 Tener instalado Git en tu equipo. Puedes realizar los cambios desde la consola o desde tu editor de código favorito.
 
-Descripción
+##Descripción
 En este reto deberás implementar una función que resuelva los dos retos planteados en los archivos. El código debe cumplir con los siguientes requisitos...
 
-Reglas
+##Reglas
 Tu solución debe estar en alguno de los siguientes lenguajes:
 
 PHP
@@ -31,15 +32,16 @@ Haz una rama de este repositorio y trabaja en tu rama.
 
 Cuando hayas terminado, crea un Pull Request para que revisemos tu código.
 
-Criterios de evaluación
-Que tu código resuelva el reto planteado.
+##Criterios de evaluación
 
-Calidad del código.
+-Que tu código resuelva el reto planteado.
 
-Eficiencia del algoritmo.
+-Calidad del código.
 
-No usar ChatGPT, Gemini, Copilot o inteligencias artificiales similares.
+-Eficiencia del algoritmo.
 
-Recuerda poner como reviewers a: martinfnsw, SebastianSW y Reyes-SW.
+-No usar ChatGPT, Gemini, Copilot o inteligencias artificiales similares.
 
-¡Buena suerte! 🧡
+-Recuerda poner como reviewers a: martinfnsw, SebastianSW y Reyes-SW.
+
+## ¡Buena suerte! 🧡
