@@ -1,7 +1,7 @@
 swcoding-challenges
 Challenges
 
-#Reto de Programación
+# Reto de Programación
 
 ¡Bienvenido al reto de programación!
 Con este reto evaluaremos tu conocimiento en lenguajes de programación, el flujo de Git, así como una pequeña práctica utilizándolo. También analizaremos tu desarrollo lógico.
