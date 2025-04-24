@@ -9,3 +9,21 @@ Verifique que ambos parámetros a y b sean números enteros.
 Si alguno de los parámetros no es un número entero, la función debe retornar el mensaje: "Ambos parámetros deben ser números enteros.".
 Si ambos parámetros son válidos, debe sumar los dos números y retornar un string con el siguiente formato: 
 "El resultado de la suma es: Resultado SW", donde Resultado es la suma de a y b y "SW" son las iniciales.
+
+
+✅ Casos válidos (números enteros)
+
+Entrada	Salida esperada
+a = 5, b = 3	El resultado de la suma es: 8 SW
+a = -10, b = 4	El resultado de la suma es: -6 SW
+a = 0, b = 0	El resultado de la suma es: 0 SW
+a = 123, b = 877	El resultado de la suma es: 1000 SW
+
+❌ Casos inválidos (no enteros)
+
+Entrada	Salida esperada	Motivo del error
+a = 5.5, b = 2	"Ambos parámetros deben ser números enteros."	a es un número decimal
+a = "10", b = 5	"Ambos parámetros deben ser números enteros."	a es string
+a = 8, b = nil (null)	"Ambos parámetros deben ser números enteros."	b no es un número
+a = true, b = 3	"Ambos parámetros deben ser números enteros."	a es booleano
+a = [], b = {}	"Ambos parámetros deben ser números enteros."	Ambos son tipos incorrectos
