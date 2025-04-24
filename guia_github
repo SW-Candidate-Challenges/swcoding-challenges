@@ -1,0 +1,59 @@
+## 📝 Guía para realizar un Pull Request (PR) en GitHub
+
+### ✅ Requisitos previos:
+- Tener cuenta en GitHub.
+- Haber *forkeado* el repositorio o haberlo *clonado* directamente si tienes permisos.
+- Tener Git instalado en tu equipo.
+- Haber creado tu propia rama de trabajo.
+
+---
+
+### 🛠️ Pasos detallados:
+
+#### 1. **Clona el repositorio (si aún no lo hiciste):**
+```bash
+git clone https://github.com/usuario/repositorio.git
+cd repositorio
+```
+
+#### 2. **Crea y cambia a una nueva rama con tu nombre o propósito:**
+```bash
+git checkout -b mi-rama-reto
+```
+
+#### 3. **Haz los cambios necesarios y guarda tu progreso:**
+Asegúrate de:
+- Incluir comentarios en el código.
+- Seguir las reglas del reto.
+- Probar tu solución localmente.
+
+#### 4. **Agrega y commitea tus cambios:**
+```bash
+git add .
+git commit -m "Solución al reto de programación"
+```
+
+#### 5. **Sube tu rama a GitHub:**
+```bash
+git push origin mi-rama-reto
+```
+
+#### 6. **Crea el Pull Request:**
+- Ve al repositorio original en GitHub.
+- Verás un botón que dice *"Compare & pull request"* o algo similar.
+- Da clic y asegúrate de seleccionar tu rama como origen y la rama principal del repositorio como destino (generalmente `main` o `master`).
+- Escribe un título descriptivo y, si lo deseas, una breve descripción de lo que hiciste.
+- **Agrega como reviewers a:** `martinfnsw`, `SebastianSW` y `Reyes-SW`.
+
+#### 7. **Envía el PR y espera la revisión:**
+¡Listo! Los revisores analizarán tu código y te darán retroalimentación o aprobarán el cambio.
+
+---
+
+### 🔁 ¿Y luego?
+- Si te piden cambios, repítelo en tu misma rama y vuelve a hacer `commit` y `push`.
+- GitHub actualizará automáticamente el PR con tus nuevos cambios.
+
+---
+
+¡Buena suerte en tu contribución! 🚀
