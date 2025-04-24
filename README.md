@@ -13,7 +13,10 @@ Cuenta en GitHub.
 Tener instalado Git en tu equipo. Puedes realizar los cambios desde la consola o desde tu editor de código favorito.
 
 ## Descripción
-En este reto deberás implementar una función que resuelva uno de los dos retos planteados en los archivos. El código debe cumplir con los siguientes requisitos...
+Becarios resolver el reto: "2"
+Jr resolver el reto: "1" ó "2"
+
+En este reto deberás implementar una función que resuelva el reto planteado en los archivos. El código debe cumplir con los siguientes requisitos:
 
 ## Reglas
 Tu solución debe estar en alguno de los siguientes lenguajes:
@@ -40,9 +43,15 @@ Cuando hayas terminado, crea un Pull Request para que revisemos tu código.
 
 -Eficiencia del algoritmo.
 
+-Reaizar un Readme en tu rama que explique tu codigo mas a detalle. El nombre debera ser "ReadmeMiLogica.md"
+
 -No usar ChatGPT, Gemini, Copilot o inteligencias artificiales similares.
 
+-La Rama debera llevar esta nomenclatura: reto/nombre_completo
+
 -Recuerda poner como reviewers a: martinfnsw, SebastianSW y Reyes-SW.
+
+-Un plus al reto es agregar UT o Pruebas unitarias para garantizar el trabajo correcto del codigo.
 
 ## ¡Buena suerte! 🧡
 
