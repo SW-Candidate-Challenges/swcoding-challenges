@@ -1,5 +1,8 @@
 ## 📝 Guía para realizar un Pull Request (PR) en GitHub
 
+Esta guia no es necesaria llevarla a cabo en los retos, solo es como referencia general de como trabajar con Github.
+Al ser un repositorio publico, si subes una rama mas participantes podran ver tu codigo, por ese motivo es mejor enviarlo como un archivo .zip
+
 ### ✅ Requisitos previos:
 - Tener cuenta en GitHub.
 - Haber *forkeado* el repositorio o haberlo *clonado* directamente si tienes permisos.
