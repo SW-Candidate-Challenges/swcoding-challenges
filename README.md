@@ -33,9 +33,9 @@ Ruby
 
 Python
 
-Haz una rama de este repositorio y trabaja en tu rama.
+Clona el repositorio en tu equipo y trabaja en el de manera local. Tambien puedes descargarlo como .zip de esta pagina.
 
-Cuando hayas terminado, crea un Pull Request para que revisemos tu código.
+Cuando hayas terminado, puedes guardar el codigo en un archivo .zip para su envio.
 
 ## Criterios de evaluación
 
@@ -49,9 +49,7 @@ Cuando hayas terminado, crea un Pull Request para que revisemos tu código.
 
 -No usar ChatGPT, Gemini, Copilot o inteligencias artificiales similares.
 
--La Rama debera llevar esta nomenclatura: reto/nombre_completo
-
--Recuerda poner como reviewers a: martinfnsw, SebastianSW y Reyes-SW.
+-El archivo .zip debera llevar esta nomenclatura: reto_nombre_completo
 
 -Un plus al reto es agregar UT o Pruebas unitarias para garantizar el trabajo correcto del codigo.
 
