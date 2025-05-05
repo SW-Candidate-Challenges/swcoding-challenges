@@ -13,8 +13,10 @@ Cuenta en GitHub.
 Tener instalado Git en tu equipo. Puedes realizar los cambios desde la consola o desde tu editor de código favorito.
 
 ## Descripción
-Becarios resolver el reto: "2"
-Jr resolver el reto: "1" ó "2"
+
+Becarios resolver el reto: # 2
+
+Jr resolver el reto: #1 ó # 2
 
 En este reto deberás implementar una función que resuelva el reto planteado en los archivos. El código debe cumplir con los siguientes requisitos:
 
