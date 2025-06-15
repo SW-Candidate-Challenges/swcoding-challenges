@@ -16,40 +16,23 @@ def versionesString(msj):
         contador +=1
     #Validaciones de clave : valor
     if "name" in datosUsuario:
-        if len(datosUsuario["name"])>=5: contador-=1
+        if len(datosUsuario["name"])>=5: contador-=1        #Validacion del tamaño de la cadena
         else: contador=contador 
     if "age" in datosUsuario:
-        if int(datosUsuario["age"])>18: contador-=1
+        if int(datosUsuario["age"])>=18: contador-=1         #Validacion de la edad >=18
         else: contador=contador
     if "state" in datosUsuario:
-        if len(datosUsuario["state"])>=5: contador-=1
+        if len(datosUsuario["state"])>=5: contador-=1       #Validacion del tamaño de la cadena de state
         else: contador=contador
     if "zipcode" in datosUsuario:
-        if len(datosUsuario["zipcode"])==5: contador-=1
+        if len(datosUsuario["zipcode"])==5: contador-=1     #Validacion de el tamaño exacto del codigo postal 5 digitos
         else: contador=contador
     if "status" in datosUsuario:
-        if datosUsuario["status"].lower() == "casado" or "soltero": contador-=1
+        if datosUsuario["status"].lower() == "casado" or "soltero": contador-=1 #Validacion de los estados civiles posibles 'casado' o 'soltero'
         else: contador=contador
     #Asignaciones de version y resultado
-    if "zipcode" in datosUsuario and contador == 0: 
-        version = 4.0
-        resultado = "Success"
-    elif "status" in datosUsuario and contador == 0:
-        version = 4.0
-        resultado = "Success"
-    elif "zipcode" and "status" not in datosUsuario and contador == 0:
-        version = 3.3
-        resultado = "Success"
-    elif "zipcode" in datosUsuario and contador != 0: 
-        version = 4.0
-        resultado = "Error"
-    elif "status" in datosUsuario and contador != 0:
-        version = 4.0
-        resultado = "Error"
-    elif "zipcode" and "status" not in datosUsuario and contador != 0:
-        version = 3.3
-        resultado = "Error"
-
+    version = 4.0 if "zipcode" or "status" in datosUsuario else 3.3     #asignacion de la version 
+    resultado = "Success" if contador ==0 else "Error"                  #asignacion del resultado
     mensaje = print(f"Version {version}|{resultado}")
     return mensaje
 
