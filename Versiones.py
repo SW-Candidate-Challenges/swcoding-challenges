@@ -31,18 +31,9 @@ def versionesString(msj):
         if datosUsuario["status"].lower() == "casado" or "soltero": contador-=1 #Validacion de los estados civiles posibles 'casado' o 'soltero'
         else: contador=contador
     #Asignaciones de version y resultado
-    version = 4.0 if "zipcode" or "status" in datosUsuario else 3.3     #asignacion de la version 
-    resultado = "Success" if contador ==0 else "Error"                  #asignacion del resultado
-    mensaje = print(f"Version {version}|{resultado}")
+    version = 4.0 if "zipcode" in datosUsuario or "status" in datosUsuario else 3.3         #asignacion de la version 
+    resultado = "Success" if contador == 0 else "Error"                                     #asignacion del resultado
+    mensaje = f"Version {version}|{resultado}"
     return mensaje
 
 
-versionesString("name:Andrea|age:29|state:Jalisco|zipcode:44100|status:Soltero")
-
-versionesString("name:PedroL|age:22|state:Nayarit")
-
-versionesString("name:Ana|age:19|state:Yucatán|zipcode:1234|status:Casado")
-
-versionesString("name:Roberto|age:17|state:Sonora|status:Soltero")
-
-versionesString("name:Elisa|age:30|state:DF|zipcode:99999|status:divorciado")
