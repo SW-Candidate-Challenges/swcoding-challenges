@@ -25,7 +25,7 @@ def versionesString(msj):
         if len(datosUsuario["state"])>=5: contador-=1
         else: contador=contador
     if "zipcode" in datosUsuario:
-        if len(datosUsuario["zipcode"])>=5: contador-=1
+        if len(datosUsuario["zipcode"])==5: contador-=1
         else: contador=contador
     if "status" in datosUsuario:
         if datosUsuario["status"].lower() == "casado" or "soltero": contador-=1
