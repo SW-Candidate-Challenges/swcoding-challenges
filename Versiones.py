@@ -5,25 +5,15 @@ def versionesString(msj):
     En caso de ser validos retorna -> Success 
     '''
     version = 0.0
-    resultado = ""
+    resultado = ""                              #Varialbes necesarias para el funcionamiento: version y resultado para el mensaje a retornar, datosUsuario sera un dict{} 
     datosUsuario = {}
-    contador = 0
+    contador = 0                                #Contador para contabilizar cuantos datos clave:valor tenemos y posteriormente realizar validaciones para saber si es Error o Success
     #Preprocesamos el texto recibido.
     texto = tuple(msj.split("|"))               #partimos el texto por cada | y lo almacenamos en un [list] para procesarlo  
     for x in range(len(texto)):                 #Iteramos cada elemento de la lista para posteriormente partirlo de nuevo por sus :
         clave,valor = texto[x].split(":")       #Dividimos el texto por sus : y almacenamos el lado izq en clave y el lado der en valor
         datosUsuario[clave] = valor             #Lo insertamos dentro de datosUsuario[clave] = valor para hacer que el acceder a los indices sea O(1)
         contador +=1
-    if "name" in datosUsuario and len(datosUsuario["name"])>=5: messageOK = True
-    else: messageOK = False
-    if "age" in datosUsuario and int(datosUsuario["age"])>18: messageOK = True
-    else: messageOK = False
-    if "state" in datosUsuario and len(datosUsuario["state"])>=5: messageOK = True
-    else: messageOK = False
-    if "zipcode" in datosUsuario and len(datosUsuario["zipcode"])>=5: messageOK = True
-    else: messageOK = False
-    if "status" in datosUsuario and datosUsuario["status"].lower() == "casado" or "soltero": messageOK = True
-    else: messageOK = False
     #Validaciones de clave : valor
     if "name" in datosUsuario:
         if len(datosUsuario["name"])>=5: contador-=1
