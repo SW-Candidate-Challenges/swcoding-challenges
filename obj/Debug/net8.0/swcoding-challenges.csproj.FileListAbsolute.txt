@@ -1,0 +1,15 @@
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/bin/Debug/net8.0/swcoding-challenges
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/bin/Debug/net8.0/swcoding-challenges.deps.json
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/bin/Debug/net8.0/swcoding-challenges.runtimeconfig.json
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/bin/Debug/net8.0/swcoding-challenges.dll
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/bin/Debug/net8.0/swcoding-challenges.pdb
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/obj/Debug/net8.0/swcoding-challenges.GeneratedMSBuildEditorConfig.editorconfig
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/obj/Debug/net8.0/swcoding-challenges.AssemblyInfoInputs.cache
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/obj/Debug/net8.0/swcoding-challenges.AssemblyInfo.cs
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/obj/Debug/net8.0/swcoding-challenges.csproj.CoreCompileInputs.cache
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/obj/Debug/net8.0/swcoding-challenges.sourcelink.json
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/obj/Debug/net8.0/swcoding-challenges.dll
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/obj/Debug/net8.0/refint/swcoding-challenges.dll
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/obj/Debug/net8.0/swcoding-challenges.pdb
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/obj/Debug/net8.0/swcoding-challenges.genruntimeconfig.cache
+/home/luisangelrdzf/Documentos/Practicas/swcoding-challenges/obj/Debug/net8.0/ref/swcoding-challenges.dll
