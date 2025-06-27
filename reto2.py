@@ -20,8 +20,8 @@ def sumarNumero (a, b):
 
 if __name__ == "__main__":
     try: 
-        a = int(input("Ingrese el primer numero"))
-        b = int(input("Ingrese el segundo numero"))
+        a = int(input("Ingrese el primer numero "))
+        b = int(input("Ingrese el segundo numero "))
     except: 
         print("Ambos parametros deber ser numeros enteros")
     else: 
