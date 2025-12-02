@@ -27,3 +27,4 @@ a = "10", b = 5	"Ambos parámetros deben ser números enteros."	a es string
 a = 8, b = nil (null)	"Ambos parámetros deben ser números enteros."	b no es un número
 a = true, b = 3	"Ambos parámetros deben ser números enteros."	a es booleano
 a = [], b = {}	"Ambos parámetros deben ser números enteros."	Ambos son tipos incorrectos
+
