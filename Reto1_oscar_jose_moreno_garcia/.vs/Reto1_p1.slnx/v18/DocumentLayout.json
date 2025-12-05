@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2025\\sw\\pruebas\\Reto1_p1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B20DBF7-E1C2-783C-ADE9-804B774F2220}|Reto1_p1\\Reto1_p1.csproj|d:\\2025\\sw\\pruebas\\reto1_p1\\reto1_p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B20DBF7-E1C2-783C-ADE9-804B774F2220}|Reto1_p1\\Reto1_p1.csproj|solutionrelative:reto1_p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B20DBF7-E1C2-783C-ADE9-804B774F2220}|Reto1_p1\\Reto1_p1.csproj|d:\\2025\\sw\\pruebas\\reto1_p1\\reto1_p1\\retoversiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B20DBF7-E1C2-783C-ADE9-804B774F2220}|Reto1_p1\\Reto1_p1.csproj|solutionrelative:reto1_p1\\retoversiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RetoVersiones.cs",
+              "DocumentMoniker": "D:\\2025\\sw\\pruebas\\Reto1_p1\\Reto1_p1\\RetoVersiones.cs",
+              "RelativeDocumentMoniker": "Reto1_p1\\RetoVersiones.cs",
+              "ToolTip": "D:\\2025\\sw\\pruebas\\Reto1_p1\\Reto1_p1\\RetoVersiones.cs",
+              "RelativeToolTip": "Reto1_p1\\RetoVersiones.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T05:00:51.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2025\\sw\\pruebas\\Reto1_p1\\Reto1_p1\\Program.cs",
+              "RelativeDocumentMoniker": "Reto1_p1\\Program.cs",
+              "ToolTip": "D:\\2025\\sw\\pruebas\\Reto1_p1\\Reto1_p1\\Program.cs",
+              "RelativeToolTip": "Reto1_p1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:59:44.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

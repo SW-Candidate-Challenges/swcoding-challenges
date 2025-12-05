@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Reto1_p1/1.0.0": {
+        "runtime": {
+          "Reto1_p1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reto1_p1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

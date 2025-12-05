@@ -1,0 +1,14 @@
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\bin\Debug\net10.0\RetoSumasw.exe
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\bin\Debug\net10.0\RetoSumasw.deps.json
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\bin\Debug\net10.0\RetoSumasw.runtimeconfig.json
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\bin\Debug\net10.0\RetoSumasw.dll
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\bin\Debug\net10.0\RetoSumasw.pdb
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\obj\Debug\net10.0\RetoSumasw.GeneratedMSBuildEditorConfig.editorconfig
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\obj\Debug\net10.0\RetoSumasw.AssemblyInfoInputs.cache
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\obj\Debug\net10.0\RetoSumasw.AssemblyInfo.cs
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\obj\Debug\net10.0\RetoSumasw.csproj.CoreCompileInputs.cache
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\obj\Debug\net10.0\RetoSumasw.dll
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\obj\Debug\net10.0\refint\RetoSumasw.dll
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\obj\Debug\net10.0\RetoSumasw.pdb
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\obj\Debug\net10.0\RetoSumasw.genruntimeconfig.cache
+D:\2025\sw\pruebas\RetoSumasw\RetoSumasw\obj\Debug\net10.0\ref\RetoSumasw.dll
