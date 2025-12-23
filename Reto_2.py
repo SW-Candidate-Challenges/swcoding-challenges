@@ -25,4 +25,4 @@ if es_numEntero(a) and es_numEntero(b): # Checa que ambos num sean enteros despu
 else:
     print("Ambos parámetros deben ser números enteros.") # El caso del else por si no son int los números
 
-# Solo como pequeña aclaración, el isdigit no se usó por los número negativos, preferí omitirlo.
+# Solo como pequeña aclaración, el isdigit no se usó por los número negativos, preferí omitirlo (Se explica en Readme).

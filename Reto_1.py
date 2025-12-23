@@ -56,5 +56,5 @@ def validar_versiones(texto):
         return "Version " + version + "|Error"
 
 
-entrada = "name:Emanuel|age:22|state:Sinaloa|zipcode:82124|status:Soltero" #Es la prueba, se puede quitar o mover
+entrada = "name:Emanuel|age:14|state:Sinaloa|zipcode:82224|status:Soltero" #Es la prueba, se puede quitar o mover
 print(validar_versiones(entrada))
