@@ -1,64 +1,17 @@
-swcoding-challenges
-Challenges
+# Descripcion de la Solucion_Reto_2.js
 
-# Reto de Programación
+En el archivo viene una unica funcion llamada sumarNumeros
+La cual recive dos paramentros enteros (a, b)
+Antes de realizar la suma confirma si es un numero entero con la funcion Number.isInteger()
 
-¡Bienvenido al reto de programación!
-Con este reto evaluaremos tu conocimiento en lenguajes de programación, el flujo de Git, así como una pequeña práctica utilizándolo. También analizaremos tu desarrollo lógico.
-Sugerimos que agregues comentarios dentro del código explicando lo que hace cada paso.
+En caso de que un parametro sea distinto a un numero entero se retorna el mensaje: 
+"Ambos parámetros deben ser números enteros."
 
-## Requisitos previos
-Cuenta en GitHub.
+En caso de ser validos ambos parametros se retornara la suma de ambos numeros con este formato:
+"El resultado de la suma es: Resultado SW" donde el resultado es la suma de ambos numeros
 
-Tener instalado Git en tu equipo. Puedes realizar los cambios desde la consola o desde tu editor de código favorito.
+# Descripcion del archivo de test_solucion_reto_2
 
-## Descripción
+En el archivo vienen dos arreglos(pruebasValidas y pruebasInvalidas) en las cuales vienen arreglos de 2 con los parametros que se mandaran para las pruebas
 
-Becarios resolver el reto: # 2
-
-Jr resolver el reto: #1 y # 2
-
-En este reto deberás implementar una función que resuelva el reto planteado en los archivos. El código debe cumplir con los siguientes requisitos:
-
-## Reglas
-Tu solución debe estar en alguno de los siguientes lenguajes:
-
-PHP
-
-JavaScript
-
-C#
-
-Ruby
-
-Python
-
-Clona el repositorio en tu equipo y trabaja en el de manera local. Tambien puedes descargarlo como .zip de esta pagina.
-
-Cuando hayas terminado, puedes guardar el codigo en un archivo .zip para su envio.
-
-## Criterios de evaluación
-
--Que tu código resuelva el reto planteado.
-
--Calidad del código.
-
--Eficiencia del algoritmo.
-
--Reaizar un Readme en tu rama que explique tu codigo mas a detalle. El nombre debera ser "ReadmeMiLogica.md"
-
--No usar ChatGPT, Gemini, Copilot o inteligencias artificiales similares.
-
--El archivo .zip debera llevar esta nomenclatura: reto_nombre_completo
-
--Un plus al reto es agregar UT o Pruebas unitarias para garantizar el trabajo correcto del codigo.
-
-## ¡Buena suerte! 🧡
-
-## Anexo: 
-## Declaración de Integridad
-Este reto tiene como objetivo evaluar tus habilidades personales de programación y razonamiento lógico.
-Queda estrictamente prohibido el uso de herramientas de asistencia basadas en inteligencia artificial, como ChatGPT, Gemini, Copilot u otras similares.
-
-Cualquier indicio del uso de estas herramientas podrá ser motivo de descalificación inmediata del reto.
-Confía en tu conocimiento y da lo mejor de ti. 👊
+Consecuentemente estan dos ciclos for para probar la funcion con los diferentes parametros y validar que retorne correctamente lo esperado
